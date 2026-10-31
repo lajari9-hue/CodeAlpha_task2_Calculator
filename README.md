@@ -33,14 +33,21 @@ Keyboard Controls
 +          Addition
 -          Subtraction
 *          Multiplication
+
 /           Division
+
 %          Remainder
 Enter       Calculate
+
 Backspace   Delete
 Escape      Clear
 Internship Task
 Organization: CodeAlpha
+
 Task: Task 2 - Build a Calculator
+
 Domain: Frontend Development
+
+
 Author
 Lajari9-hue
